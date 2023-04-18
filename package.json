@@ -9,7 +9,7 @@
     "lint": "eslint . --fix",
     "test": "jest",
     "coverage": "jest --coverage",
-    "e2e": "jest --testPathPattern=./e2e/ --runInBand"
+    "tooltip": "jest --testPathPattern=./html_forms/ --runInBand"
   },
   "author": "MiXACT",
   "license": "ISC",
