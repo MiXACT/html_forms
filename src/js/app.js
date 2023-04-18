@@ -1,8 +1,8 @@
 import Tooltip from './tooltip';
 
 const popoverData = {
-	'title': 'Popover title',
-	'content': 'Popover content'
+	title: 'Popover title',
+	content: 'Popover content',
 };
 // eslint-disable-next-line
 
